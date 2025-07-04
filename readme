@@ -1,0 +1,48 @@
+# 🌿 PlantSell – Houseplant E-commerce Store
+
+Welcome to **PlantSell**, a responsive and interactive e-commerce site for houseplants. Built with **React**, **Redux**, and **Vite**, this project is part of a peer-reviewed assignment showcasing a complete shopping cart experience, category filtering, and GitHub Pages deployment.
+
+## 🏠 Live Website
+
+👉 [Visit the live site](https://ritwikrathore26.github.io/PlantSell)
+
+## 📂 Features
+
+- 🌱 **Landing Page** with company name, background image, and CTA
+- 🪴 **Product Listing Page** with:
+  - 6 unique houseplants with images, names, and prices
+  - Category filters (e.g., Succulents, Air Purifying, Decorative)
+  - "Add to Cart" buttons (disable after selection)
+- 🛒 **Shopping Cart Page** with:
+  - Item quantity controls (increase/decrease/delete)
+  - Total price and item count display
+  - Checkout and Continue Shopping buttons
+- 🧭 Shared **Header** with navigation and cart icon
+- 📦 **Redux** for cart state management
+- ⚡ **Vite** for fast builds and hot reloads
+- 🌐 **Deployed on GitHub Pages**
+
+## 🔧 Technologies Used
+
+- React
+- Redux Toolkit
+- React Router DOM
+- Vite
+- gh-pages (deployment)
+
+## 🖼️ Screenshots
+
+> Add screenshots here (Landing page, Product listing, Cart page)
+
+## 🚀 How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/ritwikrathore26/PlantSell.git
+cd PlantSell
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
