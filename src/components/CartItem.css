@@ -1,0 +1,12 @@
+.cart-item {
+  display: grid;
+  grid-template-columns: 60px 1fr 80px 120px 80px;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.cart-item img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}

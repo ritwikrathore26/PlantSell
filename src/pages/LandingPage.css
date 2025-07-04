@@ -1,0 +1,19 @@
+.landing {
+  height: calc(100vh - 60px);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.overlay {
+  background: rgba(0,0,0,.5);
+  padding: 40px;
+  text-align: center;
+  color: #fff;
+}
+.overlay button {
+  margin-top: 20px;
+  padding: 10px 30px;
+  font-size: 18px;
+}
